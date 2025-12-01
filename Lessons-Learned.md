@@ -1,4 +1,4 @@
-#Lessons Learned
+# Lessons Learned:
 - Single compromised device can cripple an entire network
 - Cloud services (SharePoint) are common exfil channels
 - Attackers will pivot to alternate protocols when blocked
